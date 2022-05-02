@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mahanfr.github.io/static/css/main.0e4e2466.css",
+    "main.js": "/mahanfr.github.io/static/js/main.eb207715.js",
+    "static/js/787.793beccb.chunk.js": "/mahanfr.github.io/static/js/787.793beccb.chunk.js",
+    "index.html": "/mahanfr.github.io/index.html",
+    "main.0e4e2466.css.map": "/mahanfr.github.io/static/css/main.0e4e2466.css.map",
+    "main.eb207715.js.map": "/mahanfr.github.io/static/js/main.eb207715.js.map",
+    "787.793beccb.chunk.js.map": "/mahanfr.github.io/static/js/787.793beccb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e4e2466.css",
+    "static/js/main.eb207715.js"
+  ]
+}
