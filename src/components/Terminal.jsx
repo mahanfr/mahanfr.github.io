@@ -1,15 +1,16 @@
 import '../styles/terminal.css'
 import React from 'react'
 
-const Terminal = () => {
+const Terminal = ({onClose}) => {
+  
   return (
     <div className="terminal">
       <div className="terminal-header">
-        <p style={{ opacity: 0.8 }}>Mish /home/user</p>
+        <p style={{ opacity: 0.8 }}>Shark /home/user</p>
         <div>
           <span className="dot-green"></span>
           <span className="dot-orange"></span>
-          <span onClick={()=>{window.close()}} className="dot-red"></span>
+          <span onClick={onClose} className="dot-red"></span>
         </div>
       </div>
       <div className="terminal-body">
@@ -19,7 +20,7 @@ const Terminal = () => {
         <p>Nodejs Developer (for living), rust lover and django enjoyer (i just like them)</p>
         <p>email: mahan.farzaneh@gmail.com</p>
         <p>root@mahanfr ~{'>'} ls ./projects</p>
-        <span style={{ display: "flex", flexDirection: "row", justifyContent: "space-around" }}>
+        <span style={{ display: "flex", flexDirection: "column", justifyContent: "start" }}>
           <a href='https://github.com/mahanfarzaneh2000/ZilloJs'>ZilloJs</a>
           <a href='https://github.com/mahanfarzaneh2000/paradome'>Paradome</a>
           <a href='https://github.com/mahanfarzaneh2000/Ventax'>Ventax</a>

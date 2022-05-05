@@ -1,7 +1,8 @@
 .terminal {
   max-width: 60%;
   margin-inline: auto;
-  padding-top: 20px;
+  margin-top: 20px;
+  box-shadow: #0099ff40 0px 0px 20px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -58,4 +59,5 @@
   border-radius: 50%;
   display: inline-block;
   margin-inline: 5px;
+  cursor: pointer;
 }

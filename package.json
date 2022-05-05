@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mahanfarzaneh2000.github.io/mahanfr.github.io",
+  "homepage": "https://mahanfarzaneh2000.github.io/",
   "name": "mahanfr",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,9 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
+    "animate.css": "^4.1.1",
     "react": "^18.1.0",
+    "react-animation-on-scroll": "^5.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1"
   },
