@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Enogh Rope To Shoot Yourself In The Foot",
+        "author": "Allen I. Holub",
+        "description": "Rules for C and C++ Programming",
+        "text": [
+            "In Terms of Books for C and Lower level languages in general there is only",
+            "two kind: It's either text book of every feature of C or C++ which can be a bit",
+            "overwhelming or has no useful inforamtion.",
+            "I think this book is a balance between useful information about the language and",
+            "good programming idologies. In addition to that the author has a good", 
+            "and easy way of explaining all the mentioned inforamtion,",
+            "So i really recommend this book."
+        ],
+        "text_fa": []
+    },
+    {
+        "name": "Rust For Rustaceans",
+        "author": "Jon Gjengset",
+        "description": "Idiomatic Programming For Experienced Developers",
+        "text": [
+            "One of the best books for learning insides of rust languages.",
+            "Although this book might be a little to advanced if you just started learning rust",
+            "i do think it can be a really good addition to the official Rust Book."
+        ],
+        "text_fa": [ ]
+    },
+    {
+        "name": "Advanced Programming in the UNIX Enviroment",
+        "author": "W. Richard Stevens, Stephen A. Rago",
+        "description": "",
+        "text": [
+            "This Book is one of the must-haves if you wanna do any low level programming.",
+            "Explanations are straight-forward but the information is a little bit too ditaled",
+            "which if you already have even a small knowledge of unix systems can make it",
+            "reading experience extremely boaring."
+        ],
+        "text_fa": [ ]
+    }
+]
