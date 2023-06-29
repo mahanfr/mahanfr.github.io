@@ -115,7 +115,6 @@ declare module '$env/static/private' {
 	export const MAIL: string;
 	export const npm_node_execpath: string;
 	export const LC_NUMERIC: string;
-	export const OLDPWD: string;
 	export const KONSOLE_DBUS_WINDOW: string;
 	export const NODE_ENV: string;
 }
@@ -236,7 +235,6 @@ declare module '$env/dynamic/private' {
 		MAIL: string;
 		npm_node_execpath: string;
 		LC_NUMERIC: string;
-		OLDPWD: string;
 		KONSOLE_DBUS_WINDOW: string;
 		NODE_ENV: string;
 		[key: `PUBLIC_${string}`]: undefined;
